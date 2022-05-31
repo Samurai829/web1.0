@@ -1,6 +1,6 @@
 ## Hello! ✌
 
-Este es el repositorio que contiene mi Portafolio Web, dentro veran el codigo del cual se compone la pagina 📑📚📙
+Este es el repositorio que contiene mi diseño de portfolio Web, dentro veran el codigo del cual se compone la pagina 📑📚📙
 
 ## LENGUAJES USADOS ✔
 
@@ -11,4 +11,4 @@ Este es el repositorio que contiene mi Portafolio Web, dentro veran el codigo de
 
 ## DISEÑO FINAL ✔
 
-Si dan CLICK al [Website](https://samurai829.github.io/Home/) veran el resultado final de la web.
+Si dan CLICK al [Website](https://samurai829.github.io/Home/) puedran ver un ejemplo mas avanzado y el diseño final de la web.
